@@ -10,6 +10,7 @@ My collections of tips and tools useful in everyday Android development
 ### Compose
 * [Compose to Kotlin Compatibility Map](https://developer.android.com/jetpack/androidx/releases/compose-kotlin)
 * [Compose Testing cheatsheet](https://developer.android.com/jetpack/compose/testing-cheatsheet)
+* [AnnotatedStringExt.kt](https://gist.github.com/mrmike/331aa7017fe912fad00f09fdf6ceb7d8) - extensions function for creating decorated `AnnotatedString`
 
 ### Emulator
 * [Tool for fixing Bluetooth issue](https://github.com/mrmike/fix-android-emulator-audio)
